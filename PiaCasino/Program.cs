@@ -1,5 +1,5 @@
 using Microsoft.AspNetCore.Hosting;
-using PiaCasinoAppi;
+using PiaCasino;
 
 var builder = WebApplication.CreateBuilder(args);
 

@@ -7,7 +7,7 @@ using PiaCasino.Entidades;
 using PiaCasino.DTOs;
 using Microsoft.Extensions.Logging;
 
-namespace PiaCasinoControllers
+namespace PiaCasino.Controllers
 {
 
     [ApiController]

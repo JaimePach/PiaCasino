@@ -1,4 +1,4 @@
-﻿using PiaCasinoAppi.Entidades;
+﻿using PiaCasino.Entidades;
 using System.ComponentModel.DataAnnotations;
 
 namespace PiaCasino.DTOs
